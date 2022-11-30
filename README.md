@@ -21,7 +21,7 @@ npm install
 ```sh
 npm run dev
 
-### start json-server
+...start json-server
 npx json-server --watch data/db.json
 ```
 
